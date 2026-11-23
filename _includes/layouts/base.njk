@@ -106,8 +106,8 @@
 </script>
 {% endif %}
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/">
-<link rel="preload" href="/css/style.css?v=13" as="style">
-<link rel="stylesheet" href="/css/style.css?v=13">
+<link rel="preload" href="/css/style.css?v=14" as="style">
+<link rel="stylesheet" href="/css/style.css?v=14">
 </head>
 <body>
 <a class="skip-link" href="#main">உள்ளடக்கத்திற்குச் செல்</a>
@@ -119,12 +119,20 @@
 {{ content | safe }}
 </main>
 <footer class="site-footer">
-  <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">தேடுக</a> · <a href="/privacy/">தனியுரிமை</a></p>
+  <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">தேடுக</a> · <a href="/privacy/">தனியுரிமை</a> · <a href="#" id="cookie-settings">குக்கீ அமைப்புகள்</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>
   <p>வணக்கம் சொல்லுங்கள் — <a href="#" data-contact-email data-contact-email-text>எனக்கு மின்னஞ்சல் அனுப்புங்கள்</a></p>
   <p>Built with Eleventy, hosted on Cloudflare Pages.</p>
 </footer>
 <script src="/js/main.js?v=8" defer></script>
 <script src="/js/contact.js?v=1" defer></script>
+<script src="/js/consent.js?v=1" defer></script>
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="குக்கீகள்" hidden>
+  <p><strong>குக்கீகள்.</strong> இந்தத் தளம் எளிமையானது: உங்கள் சொந்த சாதனத்தில் உங்கள் வெளிச்ச அல்லது இருள் தீம் தேர்வை மட்டுமே நினைவில் வைத்துக்கொள்கிறது. இங்கே எதுவும் உங்களைக் கண்காணிக்காது. <a href="/privacy/">தனியுரிமைப் பக்கத்தைப் படியுங்கள்</a>.</p>
+  <p class="cookie-banner__buttons">
+    <button id="cookie-accept" type="button">ஏற்கவும்</button>
+    <button id="cookie-reject" type="button">நிராகரிக்கவும்</button>
+  </p>
+</div>
 </body>
 </html>
