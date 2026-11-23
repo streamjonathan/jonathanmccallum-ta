@@ -8,7 +8,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 This site is run by Jonathan McCallum. It is a small personal site: writing, and a chat that answers from that writing. There are no accounts, no tracking, no advertising, and nothing for sale.
 
-If you need to ask about anything on this page, the way to reach Jonathan is a message on [Instagram](https://www.instagram.com/jonamccallum) or [Threads](https://www.threads.com/@jonamccallum).
+இந்தப் பக்கத்தில் உள்ள எதைப் பற்றியும், அல்லது உங்கள் தனிப்பட்ட தரவைப் பற்றியும் நீங்கள் கேட்க வேண்டுமானால், ஜொனாதனுக்கு <a href="#" data-contact-email data-contact-email-text>எனக்கு மின்னஞ்சல் அனுப்புங்கள்</a> என்ற முகவரியில் எழுதுங்கள். நீங்கள் அவருக்கு [Instagram](https://www.instagram.com/jonamccallum) அல்லது [Threads](https://www.threads.com/@jonamccallum) இல் செய்தி அனுப்பலாம்.
 
 ## The chat: "Interact with Jonathan's writing"
 
@@ -20,7 +20,7 @@ When you type a question, it is sent to Cloudflare — the company that hosts th
 
 ## Leave a note
 
-Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. If you would like a reply, message him on social media instead.
+Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. பதில் வேண்டுமானால், அவருக்கு <a href="#" data-contact-email data-contact-email-text>எனக்கு மின்னஞ்சல் அனுப்புங்கள்</a> என்ற முகவரியில் எழுதுங்கள் அல்லது சமூக ஊடகங்களில் செய்தி அனுப்புங்கள்.
 
 ## What is not collected
 
